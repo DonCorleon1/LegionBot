@@ -1,0 +1,2 @@
+# LegionBot
+info for LegionBot
